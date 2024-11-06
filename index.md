@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![alt text](https://i.gyazo.com/thumb/1000/971b41c975b17758b401d0f282cd87d4-png.jpg)
+
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
