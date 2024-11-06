@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![alt text](https://i.gyazo.com/thumb/1000/971b41c975b17758b401d0f282cd87d4-png.jpg)
+![feedom div](https://pbs.twimg.com/media/GJ3OlXrXkAAC7TZ?format=jpg&name=4096x4096)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
